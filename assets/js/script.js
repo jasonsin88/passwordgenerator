@@ -1,5 +1,5 @@
 // Assignment code here
-
+var chars = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
