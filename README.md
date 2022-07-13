@@ -2,6 +2,8 @@
 
 ## Description
 
+A set of starting code was provided for a Password Generator. I was prompted to create an application based on the provided code to prompt users with a series of criterias/selections and have the application generate a password that fits the criterias selected.
+
 A series of prompts are provided for the user to select criterias for their desired password.
 
 When the user clicks the button "Generate Password", they are first prompted to input password length between 8-128. If the user entered a number that is out of that range, the user is prompted to enter a password length within the provided range.
