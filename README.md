@@ -13,4 +13,5 @@ When all criterias have been entered and selected, the password will appear with
 ## Deployed links
 
 Application: https://jasonsin88.github.io/passwordgenerator/
+
 GitHub: https://github.com/jasonsin88/passwordgenerator
