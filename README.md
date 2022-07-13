@@ -1,6 +1,6 @@
 # Password Generator
 
-##Description
+## Description
 
 A series of prompts are provided for the user to select criterias for their desired password.
 
@@ -10,7 +10,7 @@ The program then prompts the user to define if they would like to include number
 
 When all criterias have been entered and selected, the password will appear within the password box.
 
-##Deployed links
+## Deployed links
 
-Application:
-GitHub:
+Application: https://jasonsin88.github.io/passwordgenerator/
+GitHub: https://github.com/jasonsin88/passwordgenerator
